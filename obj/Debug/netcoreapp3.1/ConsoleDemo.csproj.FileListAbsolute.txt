@@ -1,0 +1,14 @@
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.csproj.AssemblyReference.cache
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.AssemblyInfoInputs.cache
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.AssemblyInfo.cs
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\ConsoleDemo.exe
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\ConsoleDemo.deps.json
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\ConsoleDemo.runtimeconfig.json
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\ConsoleDemo.runtimeconfig.dev.json
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\ConsoleDemo.dll
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\ConsoleDemo.pdb
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.dll
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.pdb
+C:\Users\mjcoc\source\repos\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.genruntimeconfig.cache
